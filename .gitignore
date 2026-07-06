@@ -3,6 +3,9 @@ node_modules
 .turbo
 .venv
 
+# macOS
+.DS_Store
+
 # MkDocs build output
 site/
 
